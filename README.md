@@ -1,5 +1,6 @@
+# Welcome!!
 - 👋 Hi, I’m @chantellewis
-- 👀 I’m interested in Cyber Security, Network Engineering and Web Development
+- 👀 I’m interested in Cyber Security, Network Engineering, Software Engineering and Web Development
 - 🌱 I’m currently learning WAN Technologies and Mobile Programming (iOS and Android)
 - 💞️ I’m looking to collaborate on fun web development projects and interesting hackathons.
 - 📫 How to reach me?... @ceej12 on discord.
